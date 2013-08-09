@@ -1,0 +1,10 @@
+resources:
+  /:
+    - src
+tests:
+  mocha:
+    files:
+      includes:
+        - test/*.js
+    extraScripts:
+      - /parallelogram.js

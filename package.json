@@ -1,0 +1,17 @@
+{
+  "name": "attester-example-module",
+  "version": "1.0.0",
+  "author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
+  "description": "Example of attester configuration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/attester/example-module"
+  },
+  "devDependencies": {
+    "attester": "git+https://github.com/attester/attester.git",
+    "mocha": "1.12.x",
+    "expect.js": "0.2.x",
+    "cowsay": "~1.0.3"
+  },
+  "license": "Apache 2.0"
+}
