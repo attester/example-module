@@ -1,7 +1,7 @@
 {
   "name": "attester-example-module",
   "version": "1.0.0",
-  "author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
+  "author": "ariatemplates <ariatemplates@amadeus.com> (http://github.com/ariatemplates)",
   "description": "Example of attester configuration",
   "repository": {
     "type": "git",
